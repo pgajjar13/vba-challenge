@@ -33,15 +33,6 @@ The total stock volume also genereated on "L" column.
 ## Solution 5 Greatest 
 * At last not least the solution also provide the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
-The solution look as follows:
-## 2014 Stock Data
-![2014](Images/2014.png)
-
-## 2015 Stock Data
-![2015](Images/2015.png)
-## 2016 Stock Data
-![2016](Images/2016.png)
-
 
 This Code is compiled and written for the VBA class Homework in the Data Analytics Bootcamp class given by-Trilogy Education Services at the University of Toronto,continuing studies. The code used learning resources from the class.
 
